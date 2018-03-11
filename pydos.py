@@ -38,7 +38,4 @@ if __name__ == "__main__":
         print "Bye"
 	time.sleep(3)
 	sys.exit(0)
-    else:
-	print "Unknown syntax, closing program"
-	time.sleep(3)
-	sys.exit(0)
+ 
